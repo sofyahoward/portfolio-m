@@ -1,6 +1,3 @@
-if( screen.width > 950 ) {     
-  window.location = "https://sofyahoward.github.io";
-}
 
 
 //Check to see if the window is top if not then display button
