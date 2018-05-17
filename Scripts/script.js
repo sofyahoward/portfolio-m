@@ -23,3 +23,12 @@ $(document).ready(function(){
       opacity: .7,
     });
   });
+
+   // CLICK-ENABLED MOBILE MENU
+   document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.fixed-action-btn');
+    var instances = M.FloatingActionButton.init(elems, {
+      direction: 'left',
+      hoverEnabled: false
+    });
+  });
