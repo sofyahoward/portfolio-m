@@ -109,6 +109,9 @@ div#top_nav a:hover:before, div#top_nav a.active:before {
   padding-left: 12%;
   padding-right: 12%;
 }
+h4 {
+  text-align: center;
+}
 
 @media (min-width: 768px) {
   .cssbox{
