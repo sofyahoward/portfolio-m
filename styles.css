@@ -272,7 +272,7 @@ z-index: 0;
 /*THIS IS CONTACT ME PAGE*/
 .contactmepage {
   text-align: center;
-  padding: 30px;
+  padding: 0px;
 }
 .btn {
     text-transform: none;
@@ -286,19 +286,16 @@ z-index: 0;
 }
 
 .github {
-  padding: 30px;
+  padding-right: 30px;
+  padding-top: 0;
 }
 
 .linkedin {
-  padding: 30px;
-}
-
-.dribble {
-  padding: 30px;
+  padding-right: 30px;
 }
 
 .slack {
-  padding: 30px;
+  padding-right: 30px;
 }
 
 /*THIS IS HOVER OVER EFFECT ON FOOTER*/
